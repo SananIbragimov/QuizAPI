@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "JIqosu1jK5v0yPfgh0ftKaUuYkoeO5O6IISfBEwD0xC70Ld0JRIa56myitZn5MZYT3as0MzB5vZCvuNZ8kkDoQ==",
+  "dgSpecHash": "buMVcEN3VtSU3KH9eTJA1De0xC0vOjS//qVOLfpzHtFafuCea9Xlcvd0/GXwfL6ar/IKv5W4jKRuqegy1kuegQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\user\\Desktop\\API\\QuizTaskAPI\\QuizTaskAPI\\QuizTaskAPI.csproj",
   "expectedPackageFiles": [
@@ -9,6 +9,7 @@
     "C:\\Users\\user\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\fluentvalidation\\11.9.0\\fluentvalidation.11.9.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\fluentvalidation.aspnetcore\\11.3.0\\fluentvalidation.aspnetcore.11.3.0.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\11.9.0\\fluentvalidation.dependencyinjectionextensions.11.9.0.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\7.0.15\\microsoft.aspnetcore.authentication.jwtbearer.7.0.15.nupkg.sha512",

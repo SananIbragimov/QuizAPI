@@ -165,3 +165,5 @@ C:\Users\user\Desktop\API\QuizTaskAPI\QuizTaskAPI\bin\Debug\net7.0\Microsoft.Ext
 C:\Users\user\Desktop\API\QuizTaskAPI\QuizTaskAPI\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
 C:\Users\user\Desktop\API\QuizTaskAPI\QuizTaskAPI\bin\Debug\net7.0\Newtonsoft.Json.dll
 C:\Users\user\Desktop\API\QuizTaskAPI\QuizTaskAPI\bin\Debug\net7.0\Newtonsoft.Json.Bson.dll
+C:\Users\user\Desktop\API\QuizTaskAPI\QuizTaskAPI\obj\Debug\net7.0\QuizTaskAPI.sourcelink.json
+C:\Users\user\Desktop\API\QuizTaskAPI\QuizTaskAPI\bin\Debug\net7.0\FluentValidation.AspNetCore.dll
